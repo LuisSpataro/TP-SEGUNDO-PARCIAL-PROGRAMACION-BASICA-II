@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java/modelo/criatura"/>
+	<classpathentry kind="src" path="src/main/java/modelo/excepciones"/>
+	<classpathentry kind="src" path="src/main/java/modelo/interactuar"/>
+	<classpathentry kind="src" path="src/main/java/modelo/maestro"/>
+	<classpathentry kind="src" path="src/main/java/modelo/reportes"/>
+	<classpathentry kind="src" path="src/main/java/modelo/transformaciones"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
