@@ -1,0 +1,1 @@
+// Criatura.java - generado automáticamente

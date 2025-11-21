@@ -1,0 +1,1 @@
+// EnergiaExcedidaException.java - generado automáticamente

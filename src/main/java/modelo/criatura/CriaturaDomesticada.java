@@ -1,0 +1,1 @@
+// CriaturaDomesticada.java - generado automáticamente
