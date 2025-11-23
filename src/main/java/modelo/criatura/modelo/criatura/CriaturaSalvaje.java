@@ -1,1 +1,0 @@
-// CriaturaSalvaje.java - generado automáticamente
